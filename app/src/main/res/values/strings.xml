@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FideltyProject</string>
+    <string name="score">Score</string>
+    <string name="rank">Rank</string>
+    <string name="episodes">Episode</string>
+    <string name="type">Type</string>
+</resources>
